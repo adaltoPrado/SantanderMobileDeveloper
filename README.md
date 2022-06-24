@@ -1,2 +1,2 @@
 # SantanderMobileDeveloper
-Atividades deste bootcamp
+Collections - Kotlin
